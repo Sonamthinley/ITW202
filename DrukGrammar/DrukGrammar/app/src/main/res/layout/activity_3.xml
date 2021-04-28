@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fixb"
+    tools:context=".Activity3">
+
+   <!-- <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:menu="@menu/navigation_menu"
+        android:gravity="start"/>-->
+
+    <TextView
+        android:id="@+id/part1_head"
+        android:layout_width="300dp"
+        android:layout_height="59dp"
+        android:background="@drawable/part2_head"
+        android:gravity="center"
+        android:text="སྦྱར་བྱ་ཡི་གུའི་རྣམ་གཞག།"
+        android:textColor="@color/black"
+        android:textSize="68px"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.684"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.061" />
+
+    <ImageView
+        android:id="@+id/imageView42"
+        android:layout_width="143dp"
+        android:layout_height="149dp"
+        android:onClick="part2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.17"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/part1_head"
+        app:layout_constraintVertical_bias="0.166"
+        app:srcCompat="@drawable/gengu" />
+
+    <ImageView
+        android:id="@+id/imageView52"
+        android:layout_width="217dp"
+        android:layout_height="151dp"
+        android:onClick="part6"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.974"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/part1_head"
+        app:layout_constraintVertical_bias="0.162"
+        app:srcCompat="@drawable/screenshot__25_" />
+
+    <ImageView
+        android:id="@+id/imageView53"
+        android:layout_width="186dp"
+        android:layout_height="149dp"
+        android:onClick="part4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.11"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView42"
+        app:layout_constraintVertical_bias="0.181"
+        app:srcCompat="@drawable/screenshot__26_" />
+
+    <ImageView
+        android:id="@+id/imageView54"
+        android:layout_width="153dp"
+        android:layout_height="150dp"
+        android:onClick="part8"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.3"
+        app:layout_constraintStart_toEndOf="@+id/imageView53"
+        app:layout_constraintTop_toBottomOf="@+id/imageView52"
+        app:layout_constraintVertical_bias="0.182"
+        app:srcCompat="@drawable/screenshot__27_" />
+
+    <ImageView
+        android:id="@+id/imageView55"
+        android:layout_width="170dp"
+        android:layout_height="144dp"
+        android:onClick="part10"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/part1_head"
+        app:layout_constraintVertical_bias="0.919"
+        app:srcCompat="@drawable/screenshot__28_" />
+
+    <ImageView
+        android:id="@+id/imageView56"
+        android:layout_width="48dp"
+        android:layout_height="77dp"
+        android:onClick="part59"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/part1_head"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.048"
+        app:srcCompat="@drawable/ic_baseline_home_24" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
