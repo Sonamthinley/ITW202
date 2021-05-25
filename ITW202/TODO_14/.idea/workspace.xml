@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c537d98-c108-4b80-9c57-b14cd3b89d2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TODO_12/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/androidTest/java/com/example/drukfitness/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Activity9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/QuizContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/java/com/example/drukfitness/QuizDbHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/ar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/arr1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/champter_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/chapter2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/chapter3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/chapter4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/chapter5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/content_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/custom_btn1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/fixb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/gcit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/gengu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/hello.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/ic_baseline_contactless_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/ic_baseline_home_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/ic_sharp_home_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/kane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/la.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/layrynx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/lips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/one.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/part2_head.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/part3_custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/part4_custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/pharynx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/quiz_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/quiz_custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/ra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/screenshot__25_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/screenshot__26_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/screenshot__27_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/screenshot__28_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/screenshot__31_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/screenshot__32_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/screenshot__33_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/screenshot__35_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/skull.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/drawable/teeth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/menu/navigation_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-hdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/a.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/ba.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/cha.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/chai8.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/da.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/e.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/fish.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/ga3.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/ha.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/haha.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/ja.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/ka1.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/kha2.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/la.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/ma.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/na.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/nag7.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/nga4.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/nu.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/o.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/paa.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/pha.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/sa.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/saaa.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/sha.aac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/ta.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/tha.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/tsha.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/wa.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/ya.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/za.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/zaa.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/raw/zha.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/values-b+ach/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/src/test/java/com/example/drukfitness/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_12/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_12/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/icon-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/drawable/ic_launcher_foreground_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/drawable/icon_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/drawable/icon_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-hdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-mdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-xhdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-xxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-xxhdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-xxxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/mipmap-xxxhdpi/icon_round.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1t0hNS5nBrVYLv7MJBk8ZHCjwEi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TODO_15" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c537d98-c108-4b80-9c57-b14cd3b89d2c" name="Default Changelist" comment="" />
+      <created>1621911873100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621911873100</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621911883922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621911883922" />
+  </component>
+</project>
