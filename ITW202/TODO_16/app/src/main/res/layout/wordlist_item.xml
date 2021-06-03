@@ -6,6 +6,8 @@
     android:orientation="vertical"
     android:padding="6dp">
 
-    <TextView style="@style/wordlistexampestyle" android:id="@+id/word"/>
+    <TextView
+        style="@style/wordlistexampestyle"
+        android:id="@+id/word"/>
 
 </LinearLayout>

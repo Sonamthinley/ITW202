@@ -12,8 +12,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class OrderActivity extends AppCompatActivity implements
-        AdapterView.OnItemSelectedListener   {
+public class OrderActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,10 +33,10 @@ public class OrderActivity extends AppCompatActivity implements
         if (spinner != null) {
             spinner.setAdapter(adapter);
         }
-
     }
 
     @Override
+    //<?> enables adapter view to accept any type of adapterView as an argument
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
         String message = parent.getItemAtPosition(position).toString();
         displayToast(message);
@@ -48,10 +47,6 @@ public class OrderActivity extends AppCompatActivity implements
     public void onNothingSelected(AdapterView<?> parent) {
 
     }
-
-
-
-
 
     public void onRadiobuttonclick(View view) {
         // Is the button now checked?

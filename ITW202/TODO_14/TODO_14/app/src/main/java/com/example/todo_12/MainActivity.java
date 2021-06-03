@@ -27,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
         mainToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(mainToolbar);
 
-
-
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -61,9 +59,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
-
-
     public void displayToast(String message){
         Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
     }

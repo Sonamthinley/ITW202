@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     Button add, sub, mul, div;
     Calculator mCalculator;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -55,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
     public void div(View view) {
         String OperandOne = num1.getText().toString();
         String OperandTwo = num2.getText().toString();
-        double value = mCalculator.DIV(Double.valueOf(OperandOne), Double.valueOf(OperandTwo) );
+        double value = mCalculator.DIV(Double.valueOf(OperandOne), Double.valueOf(OperandTwo));
         result.setText(String.valueOf(value));
     }
 }

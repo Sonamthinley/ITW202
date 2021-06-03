@@ -21,7 +21,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void donuts(View view) {
-        displayToast(getString(R.string.orderdonut));
+        /*displayToast(getString(R.string.orderdonut));*/
+        Toast.makeText(this, "Donut Ordered", Toast.LENGTH_SHORT).show();
     }
 
     public void icecream(View view) {

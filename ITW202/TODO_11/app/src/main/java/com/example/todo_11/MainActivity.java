@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         click = findViewById(R.id.button);
 
         textView = findViewById(R.id.textView);
+
     }
 
     public void changethecolor(View view) {
@@ -36,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
         /*int ColorRes = getResources().getColor(colorResourceName, this.getTheme());*/
 
+        //ContextCompat is used to retrieve resources such as drawable or colors.
         int ColorRes = ContextCompat.getColor(this, colorResourceName);
 
         textView.setTextColor(ColorRes);

@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c537d98-c108-4b80-9c57-b14cd3b89d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TODO_12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Druk Fitness/.idea/Druk Fitness.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImplicitIntent/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImplicitIntent/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImplicitIntent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_11/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_11/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_12/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_12/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_8 II/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_8 II/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_8 II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_9/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_9/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_9/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/app/build.gradle" beforeDir="false" />
@@ -170,7 +184,64 @@
       <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/gradlew" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DrukGrammar/DrukGrammar/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO_12/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_12/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplicitIntent/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImplicitIntent/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_11/app/src/main/java/com/example/todo_11/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_11/app/src/main/java/com/example/todo_11/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_12/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_12/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/androidTest/java/com/example/todo_12/MainActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/androidTest/java/com/example/todo_12/SpinnerSelectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/java/com/example/todo_12/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/java/com/example/todo_12/OrderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable/ice_cream_4194801_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable/icecream_3312559_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable/image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable/phone_651704_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/drawable/watercolour_donut_4363358_1920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/layout/activity_order.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/app/src/test/java/com/example/todo_12/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_13/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_8 II/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_8 II/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_9/app/src/main/java/com/example/todo_9/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_9/app/src/main/java/com/example/todo_9/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/icon-playstore.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Slidebar/app/src/main/res/drawable/ic_launcher_foreground_foreground.xml" beforeDir="false" />
@@ -208,7 +279,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TODO_15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TODO_14" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="SvnConfiguration">
@@ -225,9 +296,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621911883922">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1622645533160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621911883922" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622645533160" />
   </component>
 </project>
